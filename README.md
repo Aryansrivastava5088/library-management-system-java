@@ -1,4 +1,4 @@
-# 📚 Library Management System (Java + JDBC + MySQL)
+# Library Management System (Java + JDBC + MySQL)
 
 This is a console based Library Management System developed using Java, JDBC, and MySQL.  
 The project demonstrates how Java applications interact with databases to perform CRUD operations.
@@ -15,9 +15,10 @@ The project demonstrates how Java applications interact with databases to perfor
 ## Technologies Used
 
 - Java
-- JDBC (Java Database Connectivity)
+- JDBC for (Java Database Connectivity)
 - MySQL
 - VS Code
+- Github
 
 ## Database Structure
 
@@ -27,7 +28,7 @@ Table: `books`
 
 | Column | Type | Description |
 |--------|------|-------------|
-| id | INT | Primary Key (Auto Increment) |
+| id | INT | Primary Key (id) |
 | title | VARCHAR | Book title |
 | author | VARCHAR | Author name |
 | issued | BOOLEAN | Book status |
